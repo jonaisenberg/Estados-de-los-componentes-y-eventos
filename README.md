@@ -7,3 +7,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 Jonathan Araos colaboró en este proyecto (este tambien es un commit)
+
+Erich Armijo colaboro en este proyecto:
+Project Link: [https://github.com/HandxLock]
